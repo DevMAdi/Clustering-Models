@@ -8,4 +8,5 @@ It deals with assignment of a set of observations into subsets (called **cluster
 **Models:**
 
 > K-Means Clustering
+
 > Hierarchical Clustering
